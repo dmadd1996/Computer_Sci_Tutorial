@@ -1,6 +1,6 @@
 # Email Regex Tutorial
 
-This tutorial readMe will go over the components of email valid
+This tutorial readMe will go over the components of email validation regex.
 
 ## Summary
 
